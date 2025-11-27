@@ -1,0 +1,7 @@
+name: dockerlock
+channels:
+- conda-forge
+dependencies:
+- conda-lock=>3.0.4
+- altair
+- python=3.11
